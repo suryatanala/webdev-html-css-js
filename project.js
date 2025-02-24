@@ -1,7 +1,7 @@
-const vegetables=[];
+const vegetable=[];
 
-function addvegetables(){
-    const inputelement = document.querySelector(".vegetables");
+function addvegetable(){
+    const inputelement = document.querySelector(".vegetable");
     const name = inputelement.Value;
     console.log(name)
 
